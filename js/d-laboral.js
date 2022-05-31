@@ -25,7 +25,7 @@ window.sr = ScrollReveal();
 
 	sr.reveal('.targetas', {
 		duration: 3000,
-		origin: 'lef',
+		origin: 'bottom',
 		distance: '400px'
 	});
 
